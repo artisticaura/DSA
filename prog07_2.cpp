@@ -15,8 +15,8 @@ int choice=1,ch;
 
 while(choice)
 {
-cout<<"\n1.Insert at Beginning";
-cout<<"\n2.Insert at End";
+cout<<"\n1.Insert Beginning";
+cout<<"\n2.Insert End";
 cout<<"\n3.Delete from Beginning";
 cout<<"\n4.Delete from End";
 cout<<"\n5.Display";
